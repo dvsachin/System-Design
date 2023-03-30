@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a4ef7ca-bd9f-472f-9b54-69a73593a0e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/BookMyShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/GuestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/RegisteredUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/TicketBookingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/BookMyShow/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/MyFlipKart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/OrderLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/ProductsCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/Shipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/myFlipkart_Ecommerce_Platform/src/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NXYKNHycer5HqaG0KHkWcEKpiJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CaseStudies/BookMyShow/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyFlipKart">
+    <configuration name="BookMyShow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookMyShow" />
+      <module name="BookMyShow" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFlipKart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFlipKart" />
+      <module name="myFlipkart_Ecommerce_Platform" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFlipKart" />
+        <item itemvalue="Application.BookMyShow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a4ef7ca-bd9f-472f-9b54-69a73593a0e4" name="Changes" comment="" />
+      <created>1679811829006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679811829006</updated>
+      <workItem from="1679811830436" duration="11000" />
+      <workItem from="1679971250324" duration="1305000" />
+      <workItem from="1680144488489" duration="1443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
