@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CaseStudies/ATM_Machine/ATM_Machine.iml" filepath="$PROJECT_DIR$/CaseStudies/ATM_Machine/ATM_Machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/CaseStudies/Airline_Platform/Airline_Platform.iml" filepath="$PROJECT_DIR$/CaseStudies/Airline_Platform/Airline_Platform.iml" />
       <module fileurl="file://$PROJECT_DIR$/CaseStudies/BookMyShow/BookMyShow.iml" filepath="$PROJECT_DIR$/CaseStudies/BookMyShow/BookMyShow.iml" />
       <module fileurl="file://$PROJECT_DIR$/CaseStudies/CaseStudies.iml" filepath="$PROJECT_DIR$/CaseStudies/CaseStudies.iml" />

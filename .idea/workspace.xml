@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4ef7ca-bd9f-472f-9b54-69a73593a0e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/Airline_Platform.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/AccountStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Aircraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Airline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Airport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/ClassType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Passport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/SeatCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Airline_Platform/src/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/ATM_Machine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Atm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/BalanceInquiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Deposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/TransactionStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/TransactionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Transfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Withdraw.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -108,7 +109,7 @@
       <workItem from="1679811830436" duration="11000" />
       <workItem from="1679971250324" duration="1305000" />
       <workItem from="1680144488489" duration="2378000" />
-      <workItem from="1681105076777" duration="3928000" />
+      <workItem from="1681105076777" duration="6335000" />
     </task>
     <servers />
   </component>
