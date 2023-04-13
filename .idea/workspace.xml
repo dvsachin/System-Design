@@ -2,23 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4ef7ca-bd9f-472f-9b54-69a73593a0e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/ATM_Machine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Atm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/BalanceInquiry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/CurrentAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Deposite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/TransactionStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/TransactionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Transfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/ATM_Machine/src/Withdraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/Blackjack_Card_Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/src/BlackJack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/src/Dealer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/src/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/src/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/src/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Blackjack_Card_Game/src/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/Car_Rental_System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/BillingType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/CarRentalSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/Receptionist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/VehicleCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/VehicleInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/VehicleLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Car_Rental_System/src/VehicleType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -31,8 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -50,28 +59,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CaseStudies/BookMyShow/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Airline">
+  <component name="RunManager" selected="Application.Rental">
     <configuration name="Airline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Airline" />
       <module name="Airline_Platform" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackJack" />
+      <module name="Blackjack_Card_Game" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,8 +106,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Rental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rental" />
+      <module name="Car_Rental_System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rental" />
+        <item itemvalue="Application.BlackJack" />
         <item itemvalue="Application.Airline" />
         <item itemvalue="Application.MyFlipKart" />
         <item itemvalue="Application.BookMyShow" />
@@ -109,7 +134,8 @@
       <workItem from="1679811830436" duration="11000" />
       <workItem from="1679971250324" duration="1305000" />
       <workItem from="1680144488489" duration="2378000" />
-      <workItem from="1681105076777" duration="6335000" />
+      <workItem from="1681105076777" duration="8446000" />
+      <workItem from="1681360918172" duration="5550000" />
     </task>
     <servers />
   </component>
