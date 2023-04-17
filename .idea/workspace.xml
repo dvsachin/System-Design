@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4ef7ca-bd9f-472f-9b54-69a73593a0e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/Chess_Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Bishop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Rook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Chess_Game/src/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/Design_Facebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/FriendRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/RequestStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/System.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -65,7 +66,7 @@
       <recent name="$PROJECT_DIR$/CaseStudies/BookMyShow/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rental">
+  <component name="RunManager" selected="Application.App">
     <configuration name="Airline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Airline" />
       <module name="Airline_Platform" />
@@ -73,16 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlackJack" />
-      <module name="Blackjack_Card_Game" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Design_Facebook" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookMyShow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BookMyShow" />
-      <module name="BookMyShow" />
+    <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackJack" />
+      <module name="Blackjack_Card_Game" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.Rental" />
         <item itemvalue="Application.BlackJack" />
         <item itemvalue="Application.Airline" />
         <item itemvalue="Application.MyFlipKart" />
-        <item itemvalue="Application.BookMyShow" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +125,7 @@
       <workItem from="1680144488489" duration="2378000" />
       <workItem from="1681105076777" duration="8446000" />
       <workItem from="1681360918172" duration="6759000" />
-      <workItem from="1681619642259" duration="336000" />
+      <workItem from="1681619642259" duration="4638000" />
     </task>
     <servers />
   </component>
