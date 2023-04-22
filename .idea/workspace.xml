@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4ef7ca-bd9f-472f-9b54-69a73593a0e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/Design_Library_Management_System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Credentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/LibraryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudies/Design_Facebook/src/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Facebook/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Facebook/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Facebook/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Facebook/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Facebook/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Facebook/Message.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
       <recent name="$PROJECT_DIR$/CaseStudies/BookMyShow/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.LibraryManagement">
     <configuration name="Airline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Airline" />
       <module name="Airline_Platform" />
@@ -78,9 +81,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFlipKart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFlipKart" />
-      <module name="myFlipkart_Ecommerce_Platform" />
+    <configuration name="LibraryManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LibraryManagement" />
+      <module name="Design_Library_Management_System" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryManagement" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Rental" />
         <item itemvalue="Application.BlackJack" />
         <item itemvalue="Application.Airline" />
-        <item itemvalue="Application.MyFlipKart" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +120,8 @@
       <workItem from="1681360918172" duration="6759000" />
       <workItem from="1681619642259" duration="4819000" />
       <workItem from="1681861288851" duration="3849000" />
-      <workItem from="1681999871516" duration="3585000" />
+      <workItem from="1681999871516" duration="4063000" />
+      <workItem from="1682167746390" duration="303000" />
     </task>
     <servers />
   </component>
