@@ -2,14 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4ef7ca-bd9f-472f-9b54-69a73593a0e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/Design_Library_Management_System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Librarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/LibraryManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/Members.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Library_Management_System/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/Design_Cricket_Commentary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Commentary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Commentator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/DeliveryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Inning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/MatchType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Over.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/PlayerRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/PlayingEleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Tournament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/TournamentSquad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/TournamentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Umpire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/Wicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_Cricket_Commentary/src/WicketType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/Design_LinkedIn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/FriendRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Linkedin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Recruiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/RequestStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudies/Design_LinkedIn/src/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -121,7 +149,9 @@
       <workItem from="1681619642259" duration="4819000" />
       <workItem from="1681861288851" duration="3849000" />
       <workItem from="1681999871516" duration="4063000" />
-      <workItem from="1682167746390" duration="303000" />
+      <workItem from="1682167746390" duration="1847000" />
+      <workItem from="1682217233046" duration="1410000" />
+      <workItem from="1682399038321" duration="608000" />
     </task>
     <servers />
   </component>
