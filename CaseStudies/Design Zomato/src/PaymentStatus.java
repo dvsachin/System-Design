@@ -1,0 +1,3 @@
+enum PaymentStatus {
+    UNPAID, PENDING, COMPLETED, FILLED, DECLINED, CANCELLED
+}
