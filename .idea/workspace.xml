@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4ef7ca-bd9f-472f-9b54-69a73593a0e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Notes/src/Object_Oriented_Design/2. Introduction to Classes and Objects.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/src/Object_Oriented_Design/3. Introduction to UML.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/src/Object_Oriented_Design/4. Software Development Process.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Notes/src/Object_Oriented_Design" />
       <recent name="$PROJECT_DIR$/CaseStudies/BookMyShow/src" />
     </key>
   </component>
@@ -115,7 +119,8 @@
       <workItem from="1682167746390" duration="1847000" />
       <workItem from="1682217233046" duration="1410000" />
       <workItem from="1682399038321" duration="9583000" />
-      <workItem from="1682565896802" duration="626000" />
+      <workItem from="1682565896802" duration="1008000" />
+      <workItem from="1682743303077" duration="2158000" />
     </task>
     <servers />
   </component>
